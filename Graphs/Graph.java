@@ -194,6 +194,5 @@ public class Graph{
         graph3.addEdgesWithWeightInList(edges,true);
         graph3.printListWithWeight();
 
-
     }
 }
